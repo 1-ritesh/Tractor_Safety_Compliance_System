@@ -109,7 +109,7 @@ model/
 
 ## 📸 Sample Output
 
-*Add screenshots of your UI or sample extracted frames here.*
+In the output file
 
 ## 🔧 Configuration
 
