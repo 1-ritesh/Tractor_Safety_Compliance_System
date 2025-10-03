@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+flask
+pytesseract
+torch
+torchvision
+pillow
+gunicorn
